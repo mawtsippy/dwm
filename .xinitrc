@@ -4,7 +4,7 @@ xrandr -s 1920x1080
 
 nitrogen --restore & 
 
-setxkbmap 
+setxkbmap de
 
 while true; do
     xsetroot -name "$(date)"
